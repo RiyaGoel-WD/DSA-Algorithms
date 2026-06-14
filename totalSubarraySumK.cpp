@@ -1,6 +1,6 @@
 //Source- striver's atoz sheet and leetcode 560
 //time-O(n)
-//spce-O(n)
+//space-O(n)
 #include <iostream>
 #include <vector>
 #include <unordered_map>
